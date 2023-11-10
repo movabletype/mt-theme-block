@@ -3,7 +3,7 @@
 ## Requirements
 
 * Movable Type 7 with mt-plugin-MTBlockEditor 1.2.0 or later
-* Movable Type 8 or later
+* Movable Type 8
 
 ## Installing
 
