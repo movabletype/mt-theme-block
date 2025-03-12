@@ -5,7 +5,7 @@
 * Movable Type 7 with mt-plugin-MTBlockEditor 1.2.0 or later
 * Movable Type 8
 
-For more information on using "Rainier", please refer to the manual below:
+For more information on using "Block", please refer to the manual below:
 
 * [Setting up "Block" (Japanese)](https://movabletype.jp/documentation/mt8/designers-guide/manage-theme/our-theme/block/index.html)
 
